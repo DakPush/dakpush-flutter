@@ -1,9 +1,9 @@
 name: dak_push
 description: Flutter SDK for Dak, a self-hosted push notification server. Registers the device, links your user, keeps tags, reports deliveries and taps, and shows in-app messages.
 version: 0.4.0
-homepage: https://github.com/hridoyrocks/dak-push-flutter
-repository: https://github.com/hridoyrocks/dak-push-flutter
-issue_tracker: https://github.com/hridoyrocks/dak-push-flutter/issues
+homepage: https://github.com/DakPush/dakpush-flutter
+repository: https://github.com/DakPush/dakpush-flutter
+issue_tracker: https://github.com/DakPush/dakpush-flutter/issues
 topics:
   - push-notifications
   - notifications

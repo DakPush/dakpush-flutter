@@ -34,12 +34,12 @@ release tag:
 dependencies:
   dak_push:
     git:
-      url: https://github.com/hridoyrocks/dak-push-flutter.git
+      url: https://github.com/DakPush/dakpush-flutter.git
       ref: v0.4.0
 ```
 
 To update, change `ref` to a newer tag from the
-[releases](https://github.com/hridoyrocks/dak-push-flutter/releases) and read
+[releases](https://github.com/DakPush/dakpush-flutter/releases) and read
 the [CHANGELOG](CHANGELOG.md) for breaking changes. Without `ref`, apps get
 whatever `main` is when `pubspec.lock` is made.
 

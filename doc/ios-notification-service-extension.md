@@ -38,9 +38,9 @@ and nothing else). The device secret stays in the app's keychain.
    the extension target only. Take it from the same version as the package,
    because the extension and the SDK share data through the App Group:
    - from GitHub, at your version's tag:
-     `https://github.com/hridoyrocks/dak-push-flutter/blob/<tag>/ios_extension/DakNotificationService.swift`;
+     `https://github.com/DakPush/dakpush-flutter/blob/<tag>/ios_extension/DakNotificationService.swift`;
    - or from the pub cache. Installed from git, the package is in
-     `~/.pub-cache/git/dak-push-flutter-<commit>/`, where `<commit>` is the
+     `~/.pub-cache/git/dakpush-flutter-<commit>/`, where `<commit>` is the
      `resolved-ref` of dak_push in your `pubspec.lock`. From pub.dev it would
      be in `~/.pub-cache/hosted/pub.dev/dak_push-<version>/`. This prints
      the folder:
