@@ -17,7 +17,7 @@ problem.
 
 Report it privately on GitHub: open the repository's **Security** tab and
 choose **Report a vulnerability**
-([direct link](https://github.com/hridoyrocks/dak-push-flutter/security/advisories/new)).
+([direct link](https://github.com/DakPush/dakpush-flutter/security/advisories/new)).
 Only the maintainers can see the report.
 
 Include what you can of:

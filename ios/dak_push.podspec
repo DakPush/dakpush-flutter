@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
 Shares what the Dak notification service extension needs with it, sets the
 badge, and reads which notification button was tapped.
                        DESC
-  s.homepage         = 'https://github.com/hridoyrocks/dak-push-flutter'
+  s.homepage         = 'https://github.com/DakPush/dakpush-flutter'
   s.license          = { :file => '../LICENSE' }
   s.author           = 'Md Shoriful Haque Hridoy'
   s.source           = { :path => '.' }
